@@ -6,4 +6,4 @@
   - Providing low power consumption lasting up to 6 months.
   - Easy to deploy
 
-![alt text](https://github.com/khorne55/Low-Power-Wireless-Inclinometer/images/IMG_20180215_173841.jpg)
+![alt text](https://github.com/khorne55/Low-Power-Wireless-Inclinometer/blob/master/images/IMG_20180215_173841.jpg)
